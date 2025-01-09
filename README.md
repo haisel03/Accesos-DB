@@ -64,3 +64,19 @@ proyecto/
 ## Dependencias
 -  [Bootstrap 5](https://getbootstrap.com/): Para el diseño de la interfaz.
 
+
+## Datos Academicos
+### Universidad
+- Universidad Autonoma de Santo Domingo (UASD)
+- Facultad de Cienciencias
+- Escuela de Informatica
+### Asignatura
+- Lab. de Programacion III 
+- Prof. Lic. Radhames Silverio
+- Segundo Semestre 2024
+
+### Estudiante
+- Haisel Ramírez Brito
+- CI-6946
+- 809-658-2989
+- haiselramirez@gmail.com
